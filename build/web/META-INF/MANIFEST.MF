@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Created-By: 17 (Oracle Corporation)
+Class-Path: mariadb-java-client-3.5.1.jar
+Web-Application-Context: /la_meva_llibreria
+
